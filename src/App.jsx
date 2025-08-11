@@ -1,4 +1,7 @@
 import React, { useEffect, useMemo, useState } from "react";
+import InstallBanner from "./components/InstallBanner.jsx";
+
+
 
 /*
 Finance Tracker — full app
@@ -397,6 +400,7 @@ export default function App() {
       >
         +
       </button>
+      <InstallBanner />
     </div>
   );
 }
