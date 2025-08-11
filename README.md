@@ -1,4 +1,4 @@
-# Finance Tracker
+# Finance Tracker (v2)
 Vite + React + Tailwind. Ready for Netlify.
 
 ## Local
